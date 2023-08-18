@@ -30,14 +30,15 @@
    * [ ] Java Programming: Arrays, Lists, and Structured Data
    * [ ] Java Programming: Principles of Software Design
    * [ ] Java Programming: Build a Recommendation System
-* [ ] [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) 
-* [ ] [Design Patterns](https://www.coursera.org/learn/design-patterns) 
-* [ ] [Software Architecture](https://www.coursera.org/learn/software-architecture) 
-* [ ] [Service-Oriented Architecture](https://www.coursera.org/learn/service-oriented-architecture?specialization=software-design-architecture)
-
-* [ ] [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) 
-* [ ] [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) 
-* [ ] [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) 
-
-* [ ] [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) [(textbook)](https://htdp.org/2022-8-7/Book/index.html) 
-* [ ] [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)
+* [ ] [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture)
+  * [ ] [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) 
+  * [ ] [Design Patterns](https://www.coursera.org/learn/design-patterns) 
+  * [ ] [Software Architecture](https://www.coursera.org/learn/software-architecture) 
+  * [ ] [Service-Oriented Architecture](https://www.coursera.org/learn/service-oriented-architecture?specialization=software-design-architecture)
+* [ ] Programming Languages
+  * [ ] [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) 
+  * [ ] [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) 
+  * [ ] [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) 
+* [ ] [How To Code](https://htdp.org/2022-8-7/Book/index.html)
+  * [ ] [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data)
+  * [ ] [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)
